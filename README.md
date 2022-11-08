@@ -1,2 +1,2 @@
-# .github
-github specific org stuff
+# jj3623-org
+*deez nuts lol*
